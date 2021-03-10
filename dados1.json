@@ -1,0 +1,33 @@
+{"Barcodes ": {
+        "Barcodes": "NotExist"
+    },
+    "Total Rows": 15,
+    "Total Cols": 5,
+    "Amount of templates": 1,
+    "Templates": [
+        {
+            "Gab": 1,
+            "Number Cols": 1,
+            "Rows": 15,
+            "Cols": 5,
+            "Questions": 15,
+            "Mark": {
+                "1:": "D",
+                "2:": "A",
+                "3:": "E",
+                "4:": "B",
+                "5:": "A",
+                "6:": "C",
+                "7:": "D",
+                "8:": "D",
+                "9:": "E",
+                "10:": "C",
+                "11:": "C",
+                "12:": "B",
+                "13:": "E",
+                "14:": "B",
+                "15:": "D"
+            }
+        }
+    ]
+}
